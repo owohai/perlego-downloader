@@ -1,4 +1,4 @@
-# Perlego PDF Downloader
+# Perlego PDF Downloader 
 Download books from Perlego.com in PDF format.
 
 ## Installation
